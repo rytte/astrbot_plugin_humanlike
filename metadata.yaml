@@ -1,0 +1,6 @@
+name: astrbot_plugin_humanlike
+display_name: 拟人化行为
+desc: 让模型管理用户黑名单，支持拉黑、解除和查询，在消息处理入口静默忽略被拉黑用户，并保护管理员。
+version: 0.1.0
+author: unknown
+astrbot_version: ">=4.29.3,<4.30"

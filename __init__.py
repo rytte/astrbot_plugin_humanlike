@@ -1,0 +1,1 @@
+"""Humanlike behaviors for AstrBot."""
